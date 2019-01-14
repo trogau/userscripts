@@ -13,7 +13,7 @@
 {
 	var posts = document.querySelectorAll('.vertical-timeline-block');
 
-  Array.prototype.forEach.call(posts, function(elements, index)
+	Array.prototype.forEach.call(posts, function(elements, index)
 	{
 		//console.log("LOG: " + elements.style.display);
 		//console.log("LOG " + index + ": " + elements.innerHTML);
