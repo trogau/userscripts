@@ -7,7 +7,9 @@
 // @grant		none
 // ==/UserScript==
 
-//
+// Tested in:
+// . TamperMonkey in Chrome (https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+// . Greasemonkey in Firefox (https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 
 (function()
 {
